@@ -23,6 +23,8 @@
 - **Scikit-learn**: 모델 훈련 및 성능 평가  
 - **GridSearchCV**: 하이퍼파라미터 최적화  
 
+<br>
+
 ---
 
 ### **📝 Data Science Projects 2**  
@@ -53,6 +55,8 @@
 - **GridSearchCV**: 하이퍼파라미터 최적화  
 - **KDE**, **Countplot**, **Stacked Bar Chart**: 시각화 기법  
 
+<br>
+
 ---
 
 ### **📝 Data Science Projects 3**  
@@ -71,6 +75,8 @@
 - **Logistic Regression**, **DecisionTreeClassifier**: 예측 모델  
 - **Matplotlib**, **Seaborn**: 시각화
 
+<br>
+
 ---
 
 ### **📝 Data Science Projects 4**  
@@ -88,6 +94,8 @@
 - **Matplotlib**, **Seaborn**: 데이터 시각화  
 - **Scikit-learn**: 모델 훈련 및 평가  
 - **Logistic Regression**, **Random Forest Classifier**: 예측 모델  
+
+<br>
 
 ---
 
