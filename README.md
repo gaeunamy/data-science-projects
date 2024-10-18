@@ -1,6 +1,6 @@
-# AI 기반 다목적 챗봇  
+# Data Science Projects
 
-### **📝 Data Science Projects 1**  
+### **📝 Data Science Project 1**  
 **기간**: 2024-01-11 ~ 2024-02-08  
 **설명**:  
 **Kaggle에서 제공하는 Pima Indians Diabetes Database 데이터셋**을 활용하여 데이터 전처리, 탐색, 시각화, 모델 성능 개선, 파라미터 튜닝을 진행하였습니다. <br>
@@ -27,7 +27,7 @@
 
 ---
 
-### **📝 Data Science Projects 2**  
+### **📝 Data Science Project 2**  
 **기간**: 2024-01-11 ~ 2024-02-02  
 **설명**:  
 **IBM에서 제공하는 telco-customer-churn(통신사 고객 이탈) 데이터셋**을 활용하여 고객 이탈 예측을 위한 데이터 분석 프로젝트입니다. <br>
@@ -59,7 +59,7 @@
 
 ---
 
-### **📝 Data Science Projects 3**  
+### **📝 Data Science Project 3**  
 **기간**: 2024-02-03 ~ 2024-02-09  
 **설명**:  
 **Kaggle에서 제공하는 Credit Score(신용 점수) 데이터셋**을 사용하여 신용 점수에 영향을 미치는 변수를 분석하고, 채무 불이행 가능성이 높은 고객을 예측하는 프로젝트입니다.
@@ -79,7 +79,7 @@
 
 ---
 
-### **📝 Data Science Projects 4**  
+### **📝 Data Science Project 4**  
 **기간**: 2024-02-03 ~ 2024-02-10  
 **설명**:  
 **Kaggle에서 제공하는 high-school-alcoholism-and-academic-performance(학생들의 학업과 알코올 중독) 데이터셋**을 사용하여 알코올 중독이 학업 성적에 미치는 영향을 분석하고, 학교 결석 예측 모델을 만드는 프로젝트입니다.
@@ -99,7 +99,7 @@
 
 ---
 
-### **📝 Data Science Projects 5**  
+### **📝 Data Science Project 5**  
 **기간**: 2024-02-03 ~ 2024-02-09  
 **설명**:  
 **UCI Machine Learning Repository에서 제공하는 온라인 판매 데이터셋**을 사용하여 비지도 학습(Cluster Analysis)을 통해 고객 패턴을 분석하고, 이를 기반으로 마케팅 전략을 수립하는 프로젝트입니다.
